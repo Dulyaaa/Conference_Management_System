@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import WorkshopDataService from '../../../Services/WorkshopService';
 import { Row, Col, Form, Button, Image } from 'react-bootstrap';
 import './addWorkshops.css';
-import imgworkshop from 'url:~/src/Assets/workshop1.png';
+import imgworkshop from '../../../Assets/workshop1.png';
 
 
 const initialState = {
