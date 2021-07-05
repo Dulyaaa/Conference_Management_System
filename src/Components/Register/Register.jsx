@@ -110,7 +110,9 @@ export default class Register extends Component {
                     <div className = "card-body" style={{ alignContent:'center', width:'25cm'}}>
           <form method="POST" onSubmit= {this.handleSubmit} style={{ alignContent:'center', width:'25cm'}} >
           <div className="form-group row" style={{ alignContent:'center', width:'25cm'}}>
-               <label  className="col-sm-2 col-form-label" htmlFor={name}>Name</label>
+               <label  className="col-sm-2 col-form-label" 
+              //  htmlFor={name}
+               >Name</label>
                <div className="col-sm-5">
                  <input type="text" id = "fisrtname" name="firstname" value={this.state.firstname} className="form-control" onChange={this.handleChange} placeholder="Jone" required></input>
                  
