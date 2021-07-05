@@ -1,0 +1,12 @@
+.center-col {
+    flex: 1;
+    background: #aaa;
+    overflow-y: scroll;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    height: 70vh;
+  }
+  
