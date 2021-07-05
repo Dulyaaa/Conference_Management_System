@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import HomePage from './Components/Home/Home';
 import Footer from './Components/Footer/Footer';
 import Navbarnew from './Components/NavbarNew/NavbarNew';
+import './App.css';
 
 export default class App extends Component {
   constructor(props) {
