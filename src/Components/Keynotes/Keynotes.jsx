@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './Keynotes.css';
 import KeyNoteSpeakers from '../Home/KeyNoteSpeakerSection/KeyNoteSpeaker';
 import PageTitle from '../PageTitle/PageTitle';
 
