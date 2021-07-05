@@ -4,9 +4,9 @@ import ViewConference from './ConferenceAdmin/ConferenceAdmin'
 // import ConferenceDetails from '../Conference/ConferenceDetails/ConferenceDetails'
 import { Card , Row , Col , Button} from 'react-bootstrap'
 import { Link } from 'react-router-dom';
-import research from 'url:~/src/Assets/research.png';
-import staff from 'url:~/src/Assets/staff.jpg';
-import conf from 'url:~/src/Assets/conf.png';
+import research from '../../Assets/research.png';
+import staff from '../../Assets/staff.jpg';
+import conf from '../../Assets/conf.png';
 
 import workshopList from '../Workshops/WorkshopList/workshopList'
 import './AdminHome.css';
