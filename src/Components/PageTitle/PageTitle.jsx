@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Card } from 'react-bootstrap';
-import logo from 'url:~/src/Assets/title.jpg';
+import logo from '../../Assets/title.jpg';
 
 export default class PageTitle extends Component {
 
