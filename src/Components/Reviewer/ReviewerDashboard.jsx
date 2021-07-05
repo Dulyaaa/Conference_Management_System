@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import research from 'url:~/src/Assets/research.png';
-import staff from 'url:~/src/Assets/staff.jpg';
+import research from '../../Assets/research.png';
+import staff from '../../Assets/staff.jpg';
 import { Row, Col, Button, Form, Image, Alert,Card } from 'react-bootstrap';
 
 export default class ReviewerDashboard extends Component {
