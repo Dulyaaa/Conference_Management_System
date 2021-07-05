@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Select from 'react-select';
 import { Row, Col, Button, Form, Image } from 'react-bootstrap';
-import add from 'url:~/src/Assets/add_new.png';
+import add from '../../../Assets/add_new.png';
 import './CreateConference.css';
 import { createConferenceFn } from '../../../BizLogic';
 import WorkshopService from '../../../Services/WorkshopService';
