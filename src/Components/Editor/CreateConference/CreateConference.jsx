@@ -44,7 +44,7 @@ export default class CreateConference extends Component {
      * @memberof CreateConference
      */
     getAllResearchPapers = () => {
-        axios.get('http://localhost:8080/researchers/showResearch')
+        axios.get('https://icaf-cms-backend.herokuapp.com/researchers/showResearch')
             .then(response => {
                 this.setState({ researchPapers: response.data }, () => {
                     let data = [];
@@ -71,7 +71,7 @@ export default class CreateConference extends Component {
     * @memberof CreateConference
     */
     getAllWorkshops = () => {
-        axios.get('http://localhost:8080/workshop/')
+        axios.get('https://icaf-cms-backend.herokuapp.com/workshop/')
             .then(response => {
                 this.setState({ workshops: response.data }, () => {
                     let data = [];
