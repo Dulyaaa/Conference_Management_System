@@ -135,7 +135,7 @@ export default class addWorkShop extends Component {
                 <Form.Group >
                   <Form.Label>Workshop Title</Form.Label>
                   <Form.Control
-                  htmlFor={name}
+                  // htmlFor={name}
                    id = "title"
                     type="text"
                     name="workshopTitle"
@@ -173,7 +173,7 @@ export default class addWorkShop extends Component {
                 <Form.Group>
                   <Form.Label>Email</Form.Label>
                   <Form.Control
-                  htmlFor={name}
+                  // htmlFor={name}
                    id = "email"
                     type="email"
                     name="email"
