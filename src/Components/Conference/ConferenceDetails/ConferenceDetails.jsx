@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { CardDeck, Card, Button, CardColumns, Row, Col, Image } from 'react-bootstrap';
-import conf from 'url:~/src/Assets/conf.png';
+import conf from '../../../Assets/conf.png';
 import './ConferenceDetails.css';
 import PageTitle from '../../PageTitle/PageTitle';
 import { getConferenceByIdFn } from '../../../BizLogic';
