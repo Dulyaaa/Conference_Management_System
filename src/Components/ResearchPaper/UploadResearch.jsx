@@ -74,7 +74,7 @@ export default class UploadResearch extends Component {
                                 <Form.Group >
                                     <Form.Label>Name</Form.Label>
                                     <Form.Control
-                                        htmlFor={name}
+                                        // htmlFor={name}
                                         type="text"
                                         id="name"
                                         name="name"
@@ -85,7 +85,7 @@ export default class UploadResearch extends Component {
                                 <Form.Group >
                                     <Form.Label>Email</Form.Label>
                                     <Form.Control
-                                        htmlFor={name}
+                                        // htmlFor={name}
                                         type="text"
                                         id="email"
                                         name="email"
