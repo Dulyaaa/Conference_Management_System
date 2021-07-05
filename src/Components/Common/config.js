@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const api = 'http://localhost:8080';
+const api = 'https://icaf-cms-backend.herokuapp.com';
 
 
     export const CommonGet = (controller, queryString) => {
