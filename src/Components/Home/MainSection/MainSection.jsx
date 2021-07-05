@@ -4,7 +4,7 @@ import logo from '../../../Assets/backNew.jpg';
 import add from '../../../Assets/new.png';
 import { getImportantDateByIdFn } from '../../../BizLogic';
 import { Card, Button, Col, Image, Row } from 'react-bootstrap';
-import './MainSectionStyles.css';
+// import './MainSectionStyles.css';
 
 class MainSection extends Component {
     constructor(props) {
