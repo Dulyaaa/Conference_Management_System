@@ -13,7 +13,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="body">
-<Navbarnew />
+// <Navbarnew />
         <BrowserRouter>
           <Switch>
             <Route exact path='/' component={HomePage} />
