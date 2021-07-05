@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { Row, Col, Button, Form, Image, Alert,Card } from 'react-bootstrap';
-import add from 'url:~/src/Assets/add.png';
 import {CommonGet, CommonPost} from "../Common/config";
 
 // export default class Contact extends Component {
