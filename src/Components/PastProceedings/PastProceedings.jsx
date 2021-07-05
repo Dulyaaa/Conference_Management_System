@@ -3,7 +3,7 @@ import { Tab, Tabs, Row, Col, Nav } from 'react-bootstrap';
 import PageTitle from '../PageTitle/PageTitle';
 import ResearchPaper from './ResearchPapers/ResearchPaper';
 import Workshop from './Workshops/Workshop';
-import logo from 'url:~/src/Assets/new.png';
+import logo from '../../Assets/new.png';
 
 class PastProceedings extends Component {
     constructor(props) {
