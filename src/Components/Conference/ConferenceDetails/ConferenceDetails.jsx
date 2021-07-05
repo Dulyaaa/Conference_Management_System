@@ -38,7 +38,7 @@ export default class ConferenceDetails extends Component {
             })
         })
             .catch(e => {
-                consol.log(e);
+                console.log(e);
             })
 
         console.log("id of conference", this.state.conferenceDetails);
