@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Select from 'react-select';
 import { Row, Col, Button, Form, Image, Alert } from 'react-bootstrap';
-import add from 'url:~/src/Assets/add.png';
+import add from '../../Assets/add.png';
 import {CommonGet, CommonPost} from "../Common/config";
 //import {toast, ToastContainer} from "react-toastify";
 //import "react-toastify/dist/ReactToastify.css"
