@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Select from 'react-select';
 import { Link } from 'react-router-dom';
 import { Row, Col, Button, Form, Image, Alert , InputGroup} from 'react-bootstrap';
-import add from 'url:~/src/Assets/add.png';
+import add from '../../Assets/add.png';
 import './Payment.css';
 import PaymentService from '../../Services/PaymentService';
 
