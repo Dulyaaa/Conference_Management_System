@@ -36,12 +36,10 @@ This function implementation covered the:-
 |:--:|:--:|
 | *`figure 1.3: All Approved Conferences`* | *`figure 1.4: Conference More Details`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/127435620-6a306408-5b32-4a8b-ae04-068298dccaa3.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/127435620-6a306408-5b32-4a8b-ae04-068298dccaa3.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/127435782-20bece7c-7fd8-48f1-8569-fdc80e260992.png">
 |:--:|:--:|
-| *`figure 1.5: Past Proceedings`* | *`figure 1.6: Add new vehicle`* | 
+| *`figure 1.5: Past Proceedings`* | *`figure 1.6: Editor Dashboard`* | 
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956725-81700c80-1516-11eb-9f50-07cffa9dd3d7.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956804-ae242400-1516-11eb-8b2f-1b7161d01dc1.png">
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/127435973-d2c4707f-56a9-4b95-8137-719770a4665b.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/127436205-8b2b91da-ec07-4f85-969f-aa8aead15678.png">
 |:--:|:--:|
-| *`figure 1.7: Update and generate report of vehicle details`* | *`figure 1.8: Report of order details `* |
-
-
+| *`figure 1.7: Create New Conference`* | *`figure 1.8: Change Status By Admin`* |
