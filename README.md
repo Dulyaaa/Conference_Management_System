@@ -36,9 +36,9 @@ This function implementation covered the:-
 |:--:|:--:|
 | *`figure 1.3: All Approved Conferences`* | *`figure 1.4: Conference More Details`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956477-dbbc9d80-1515-11eb-8930-3858fb54215b.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/127435620-6a306408-5b32-4a8b-ae04-068298dccaa3.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
 |:--:|:--:|
-| *`figure 1.5: Vehicle details`* | *`figure 1.6: Add new vehicle`* | 
+| *`figure 1.5: Past Proceedings`* | *`figure 1.6: Add new vehicle`* | 
 
 | <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956725-81700c80-1516-11eb-9f50-07cffa9dd3d7.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956804-ae242400-1516-11eb-8b2f-1b7161d01dc1.png">
 |:--:|:--:|
