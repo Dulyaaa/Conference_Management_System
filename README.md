@@ -3,6 +3,8 @@ This is a `Conference Management System` implementation of 3rd Year 1st Semester
 
 **Conference Management** is one of the function we have idetified from the given requirements. The Editor must create a conference and those created conference should get approval from the Admin before display them in main page. And also Editor can delete and view the conference details.  
 
+You can view the deployed system [here](https://icaf-frontend.herokuapp.com/).
+
 ## Language 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/Language-HTML-green)
@@ -26,7 +28,7 @@ This function implementation covered the:-
 * Delete Conference as an Editor
 
 
-### Sample user interfaces of woring project:
+## Sample user interfaces of woring project:
 
 | <img alt="1PNG" height=800 width=700 src="https://user-images.githubusercontent.com/57215584/127432826-62cf98a5-bdc0-434f-8024-37a3e7d4cf94.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/127434916-ff2b5047-c3a5-4723-9480-270d5eab518c.png">
 |:--:|:--:|
