@@ -19,21 +19,22 @@ This function implementation covered the:-
 * Home Page
 * Keynote Page
 * Conference Page
+* View More Details Of Conference Page 
 * Past Proceedings Page
 * Change Status of Conferences as an Admin
 * Create Conference as an Editor
 * Delete Conference as an Editor
 
 
-<!-- #### Sample user interfaces of woring project:
+### Sample user interfaces of woring project:
 
-| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/96396036-ced13e80-11e3-11eb-8659-d1fe565099b3.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/96954886-fd1b8a80-1511-11eb-992a-2105756ecd3d.png">
+| <img alt="1PNG" height=800 width=700 src="https://user-images.githubusercontent.com/57215584/127432826-62cf98a5-bdc0-434f-8024-37a3e7d4cf94.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/127434916-ff2b5047-c3a5-4723-9480-270d5eab518c.png">
 |:--:|:--:|
-| *`figure 1.1: All order details`* | *`figure 1.2: Add new order`* |
+| *`figure 1.1: Home Page`* | *`figure 1.2: KeyNote Details Page`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96954945-1e7c7680-1512-11eb-8369-622ff0b76bc6.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96954986-3522cd80-1512-11eb-91b5-ae2d0e2ec5bf.png">
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/127435135-bf65dffd-6c70-42bd-adcc-f06cadabf094.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/127435456-dd06b266-2ba4-4d42-b0bb-e7139891913e.png">
 |:--:|:--:|
-| *`figure 1.3: Delete and gnerate report of order`* | *`figure 1.4: Assign avehicle for each order`* |
+| *`figure 1.3: All Approved Conferences`* | *`figure 1.4: Conference More Details`* |
 
 | <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956477-dbbc9d80-1515-11eb-8930-3858fb54215b.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
 |:--:|:--:|
@@ -42,5 +43,5 @@ This function implementation covered the:-
 | <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956725-81700c80-1516-11eb-9f50-07cffa9dd3d7.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956804-ae242400-1516-11eb-8b2f-1b7161d01dc1.png">
 |:--:|:--:|
 | *`figure 1.7: Update and generate report of vehicle details`* | *`figure 1.8: Report of order details `* |
--->
+
 
