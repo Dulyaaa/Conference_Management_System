@@ -1,5 +1,7 @@
 # 🌃🚀 AF - ICAF Conference Management System
-This is a `Conference Management System` implementation of 3rd Year 1st Semester - Application Frameworks(AF) module. Here we are developed the system to manage the conferences as a web application accroding to the given requirements. 
+This is a `Conference Management System` implementation of 3rd Year 1st Semester - Application Frameworks(AF) module. Here we are developed the system to manage the conferences as a web application accroding to the given requirements. There are 4 roles in the system; they are *Admin*, *Editor*, *Reviewer*, & *User*. 
+
+**Conference Management** is one of the function we have idetified from the given requirements. The Editor must create a conference and those created conference should get approval from the Admin before display them in main page. And also Editor can delete and view the conference details.  
 
 ## Language 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
@@ -18,6 +20,9 @@ This function implementation covered the:-
 * Keynote Page
 * Conference Page
 * Past Proceedings Page
+* Change Status of Conferences as an Admin
+* Create Conference as an Editor
+* Delete Conference as an Editor
 
 
 <!-- #### Sample user interfaces of woring project:
