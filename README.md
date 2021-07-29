@@ -5,6 +5,8 @@ This is a `Conference Management System` implementation of 3rd Year 1st Semester
 
 You can view the deployed system [here](https://icaf-frontend.herokuapp.com/).
 
+⭕ Changes in the Repository reflects on the server with a new build. 
+
 ## Language 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/Language-HTML-green)
